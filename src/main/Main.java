@@ -15,7 +15,7 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println("Hello world Nikola Kreatinovic ");
 		
-		System.out.println(MemoryType);
+		
 		for(int i = 0;i<10;i++){
 			
 		
